@@ -1,43 +1,5 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bapunipatra191-ops.github.io/</loc>
-
-    <image:image>
-      <image:loc>https://bapunipatra191-ops.github.io/bapuni.png</image:loc>
-      <image:title>Bapuni Patra Profile</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://bapunipatra191-ops.github.io/ig1.jpeg</image:loc>
-      <image:title>Bapuni Patra Photo 1</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://bapunipatra191-ops.github.io/kalinga1.jpeg</image:loc>
-      <image:title>Bapuni Patra Photo 2</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://bapunipatra191-ops.github.io/kalinga2.jpeg</image:loc>
-      <image:title>Bapuni Patra Photo 3</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://bapunipatra191-ops.github.io/kalinga3.jpeg</image:loc>
-      <image:title>Bapuni Patra Photo 4</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://bapunipatra191-ops.github.io/kalinga4.jpeg</image:loc>
-      <image:title>Bapuni Patra Photo 5</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://bapunipatra191-ops.github.io/kalinga5.jpeg</image:loc>
-      <image:title>Bapuni Patra Photo 6</image:title>
-    </image:image>
-
   </url>
 </urlset>
